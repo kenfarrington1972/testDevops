@@ -1,0 +1,7 @@
+subscription_id = "d50edd55-8f6c-4eed-99c2-6177cb7939b2"
+client_id = "d455f803-d2e8-4cb7-a334-83aae3928c10"
+client_secret = "iwI8Q~MW30_rlUosHiN3czc5wh4aXnipbFtvPaY8"
+tenant_id = "5a90b32b-9c86-4a5f-b433-08e9955653e2"
+location = "uaenorth"
+vnetname = "terraform-vnet001"
+snetname = "terraform-snet001"
